@@ -57,12 +57,12 @@ Algorithms Used
  <b>Streamlit Web App</b>
 A user-friendly web app was built using Streamlit to:
 -Input an email text.
--Predict** whether it is spam or not-spam.
+-Predict whether it is spam or not-spam.
 -Display confidence scores.
 
 <h3>How to Run the App</h3>
 ```bash
-streamlit run spam_classifiaction_app.py
+streamlit run app/spam_classifiaction_app.py
 ```
 
 ---
